@@ -173,7 +173,7 @@ Project Link: [https://github.com/SaswatM-62/CryptoTrack](https://github.com/Sas
 [stars-shield]: https://img.shields.io/github/stars/SaswatM-62/CryptoTrack?style=for-the-badge
 [stars-url]: https://github.com/SaswatM-62/CryptoTrack/stargazers
 [issues-shield]: https://img.shields.io/github/issues/SaswatM-62/CryptoTrack?style=for-the-badge
-[issues-url]: https://github.com/SaswatM-62/issues
+[issues-url]: https://github.com/SaswatM-62/CryptoTrack/issues
 [license-shield]: https://img.shields.io/github/license/SaswatM-62/CryptoTrack?style=for-the-badge
 [license-url]: https://github.com/SaswatM-62/CryptoTrack/blob/main/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555

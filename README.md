@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/cryptocurrency.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">CryptoTrack</h3>
@@ -70,14 +70,15 @@ The application includes the following features:
 * Supports 47 different currencies in terms of which the cryptocurrencies can be viewed.
 
 The project is bootstrapped using create-react-app.  
-
+  
+      
 ### Built With
 
 The project is built with
 * [CoinGecko API](https://www.coingecko.com/en/api)
 * [React](https://reactjs.org/)
 
-
+  
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -92,7 +93,8 @@ You need to have Node.js installed to run this application
   ```sh
   npm install npm@latest -g
   ```
-
+  
+  
 ### Installation
 
 1. Clone the repo
@@ -107,7 +109,8 @@ You need to have Node.js installed to run this application
    ```sh
    npm install
    ```
-
+  
+  
 <!-- USAGE EXAMPLES -->
 ## Usage
 

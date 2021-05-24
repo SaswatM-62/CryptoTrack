@@ -21,9 +21,9 @@
     <br />
     <a href="https://cryptotrack-sm.netlify.app/">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/SaswatM-62/CryptoTrack/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/SaswatM-62/CryptoTrack/issues">Request Feature</a>
   </p>
 </p>
 
@@ -123,7 +123,7 @@ This will start a development server on port 3000.
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/SaswatM-62/CryptoTrack/issues) for a list of proposed features (and known issues).
 
 
 

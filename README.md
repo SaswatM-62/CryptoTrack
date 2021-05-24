@@ -67,7 +67,7 @@ This project is a cryptocurrency price tracker built using React.js that display
 The application includes the following features:
 * View the price, the market cap, the volume in the last 24 hours and the percentage change in the last 24 hours of the cryptocurrencies.
 * Search for specific cryptocurrencies.
-* Supports 47 different currencies in terms of which the cryptocurrencies can be viewed.
+* Supports 47 different currency markets in terms of which the cryptocurrencies can be viewed.
 
 The project is bootstrapped using create-react-app.  
   

@@ -15,7 +15,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][https://github.com/SaswatM-62/CryptoTrack/graphs/contributors]
+[![Contributors][contributors-shield]](https://github.com/SaswatM-62/CryptoTrack/graphs/contributors)
 [![Forks][forks-shield]][https://github.com/SaswatM-62/CryptoTrack/network/members]
 [![Stargazers][stars-shield]][https://github.com/SaswatM-62/CryptoTrack/network/members]
 [![Issues][issues-shield]][https://github.com/othneildrew/Best-README-Template/issues]

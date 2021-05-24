@@ -150,7 +150,7 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Saswat Mishra - [@TheSaswat](https://twitter.com/TheSaswat) - [Saswat Mishra][linkedin-url] - saswat.mish62@gmail.com
+Saswat Mishra - [@TheSaswat](https://twitter.com/TheSaswat) - [LinkedIn][linkedin-url] - saswat.mish62@gmail.com
 
 Project Link: [https://github.com/SaswatM-62/CryptoTrack](https://github.com/SaswatM-62/CryptoTrack)
 

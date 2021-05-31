@@ -162,6 +162,7 @@ Project Link: [https://github.com/SaswatM-62/CryptoTrack](https://github.com/Sas
 * [Choose an Open Source License](https://choosealicense.com)
 * [Font Awesome](https://fontawesome.com)
 * [Flat Icons](https://flat-icons.com/)
+* [Axios](https://www.npmjs.com/package/axios)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
